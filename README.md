@@ -1,10 +1,11 @@
 # TMDB Movie Revenue and Ratings Prediction
 
+**Authors**: Weiyi Lu & Liuyang Bai
+
 This repository contains the analysis, code, and findings for predicting movie box-office success and audience reception using strictly pre-release metadata. 
 
 By analyzing 3,532 movies released between 2010 and 2024 from The Movie Database (TMDB), this project explores how well structured, early-stage attributes can forecast a film's commercial and critical outcomes.
 
-**Authors**: Weiyi Lu & Liuyang Bai
 ## Repository Structure
 
 * `paper.pdf`: Full project research paper containing detailed methodology, evaluation metrics, and error analysis.
